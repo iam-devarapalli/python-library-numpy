@@ -52,3 +52,7 @@ You’re ready to use NumPy independently when you can predict array shapes, exp
 
 ### Reference Links: 
 https://numpy.org/doc/stable/
+
+https://numpy.org/doc/stable/user/index.html
+
+https://numpy.org/doc/stable/user/quickstart.html
