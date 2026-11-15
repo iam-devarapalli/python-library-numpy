@@ -43,3 +43,7 @@ Vectors and matrices, `@`, `dot`, transposes, norms, distances, cosine similarit
 
 # 4. Debugging checklist:
 ![alt text](numpy_2.png)
+
+# 5. Advanced topics by specialization:
+After the core roadmap, choose the topics that match what you’re building.
+![alt text](numpy_3.png)
