@@ -25,11 +25,11 @@ Vectors and matrices, `@`, `dot`, transposes, norms, distances, cosine similarit
  Loss functions, gradients, vectorized predictions, mini-batches, metrics and convergence checks. | Implement linear regression with gradient descent, then pick **K-means** or **logistic regression**. Compare the results with scikit-learn on the same split.
 
 # 2. Core concepts to learn in depth
-### Shapes and axes
+### 2.1 Shapes and axes
 ### For a tabular dataset X with shape (n_samples, n_features):
  
-|`X.mean(axis=0)` | `(n_features,)` | One mean per feature. Reduces the sample axis. |
-| `X.mean(axis=1)` | `(n_samples,)` | One mean per sample. Reduces the feature axis. |
-| `X.mean(axis=0, keepdims=True)` | `(1, n_features)` | Keeps the reduced axis as a size-1 dimension. |
-| `X[:, 0]` | `(n_samples,)` | Selects the first feature as a 1-D array. |
-| `X[:, :1]` | `(n_samples, 1)` | Selects the first feature and preserves the column axis. |
+=> `X.mean(axis=0)`, `(n_features,)` : One mean per feature. Reduces the sample axis.
+=> `X.mean(axis=1)`, `(n_samples,)` : One mean per sample. Reduces the feature axis. 
+=> `X.mean(axis=0, keepdims=True)` : `(1, n_features)` | Keeps the reduced axis as a size-1 dimension.
+=> `X[:, 0]`, `(n_samples,)` : Selects the first feature as a 1-D array.
+=> `X[:, :1]`, `(n_samples, 1)` : Selects the first feature and preserves the column axis.
