@@ -1,4 +1,4 @@
-# python-library-numpy 
+# Python Library Numpy
 ## NumPy Roadmap for Data Science and Machine Learning
 Learn NumPy in this order: arrays and shapes → indexing and masking → axes and broadcasting → numerical computing → ML implementation → performance. For your AI/ML goals, prioritize the skills you’ll reuse in Pandas, scikit-learn and PyTorch: understanding shapes, transforming data, computing metrics and debugging numerical results.
 
