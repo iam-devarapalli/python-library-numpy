@@ -40,3 +40,6 @@ Vectors and matrices, `@`, `dot`, transposes, norms, distances, cosine similarit
 
 # 3. Projects in build order:
 ![alt text](<numpy_1.png>)
+
+# 4. Debugging checklist:
+![alt text](numpy_2.png)
