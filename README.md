@@ -37,3 +37,6 @@ Vectors and matrices, `@`, `dot`, transposes, norms, distances, cosine similarit
 => `X[:, 0]`, `(n_samples,)` : Selects the first feature as a 1-D array.
 
 => `X[:, :1]`, `(n_samples, 1)` : Selects the first feature and preserves the column axis.
+
+# 3. Projects in build order:
+![alt text](<numpy_1.png>)
