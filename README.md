@@ -29,7 +29,11 @@ Vectors and matrices, `@`, `dot`, transposes, norms, distances, cosine similarit
 ### For a tabular dataset X with shape (n_samples, n_features):
  
 => `X.mean(axis=0)`, `(n_features,)` : One mean per feature. Reduces the sample axis.
+
 => `X.mean(axis=1)`, `(n_samples,)` : One mean per sample. Reduces the feature axis. 
+
 => `X.mean(axis=0, keepdims=True)` : `(1, n_features)` | Keeps the reduced axis as a size-1 dimension.
+
 => `X[:, 0]`, `(n_samples,)` : Selects the first feature as a 1-D array.
+
 => `X[:, :1]`, `(n_samples, 1)` : Selects the first feature and preserves the column axis.
