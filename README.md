@@ -48,6 +48,18 @@ Vectors and matrices, `@`, `dot`, transposes, norms, distances, cosine similarit
 After the core roadmap, choose the topics that match what you’re building.
 ![alt text](numpy_3.png)
 
+
+# Files Summary:
+### numpy_1: 
+#1 NumPy Array Fundamentals With Examples
+#2 Creating Arrays
+
+### numpy_2: 
+#1 Indexing and reshaping.
+#2 Shape Manipulation.
+#3 Shape Manipulation.
+#4 Quick notes
+
 You’re ready to use NumPy independently when you can predict array shapes, explain when a slice shares memory, build preprocessing without leakage, reproduce a result with a seeded generator, and verify a NumPy implementation against a reference.
 
 ### Reference Links: 
