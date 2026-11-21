@@ -50,15 +50,23 @@ After the core roadmap, choose the topics that match what you’re building.
 
 
 # Files Summary:
-### numpy_1: 
+### numpy_1.ipynb: 
 #1 NumPy Array Fundamentals With Examples
 #2 Creating Arrays
 
-### numpy_2: 
+### numpy_2.ipynb: 
 #1 Indexing and reshaping.
 #2 Shape Manipulation.
 #3 Shape Manipulation.
 #4 Quick notes
+
+### numpy_3.ipynb
+#1 Elementwise Operation.
+#2 Array Functions such as sqrt, exp, log and clip.
+#3 Broadcasting Rules.
+#4 Axis and keepdims.
+#5 Conditional calculations with np.where.
+#6 Pairwise operations with broadcasting.
 
 You’re ready to use NumPy independently when you can predict array shapes, explain when a slice shares memory, build preprocessing without leakage, reproduce a result with a seeded generator, and verify a NumPy implementation against a reference.
 
