@@ -51,14 +51,18 @@ After the core roadmap, choose the topics that match what you’re building.
 
 # Files Summary:
 ### numpy_1.ipynb: 
-#1 NumPy Array Fundamentals With Examples
-#2 Creating Arrays
+#1 NumPy Array Fundamentals With Examples.
+
+#2 Creating Arrays.
 
 ### numpy_2.ipynb: 
 #1 Indexing and reshaping.
+
 #2 Shape Manipulation.
+
 #3 Shape Manipulation.
-#4 Quick notes
+
+#4 Quick notes.
 
 ### numpy_3.ipynb
 #1 Elementwise Operation.
